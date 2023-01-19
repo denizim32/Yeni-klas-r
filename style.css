@@ -1,0 +1,27 @@
+.body{
+    text-align: center;
+    weight:100vh;
+    height:100vh;
+    background-color: aquamarine;
+}
+.tüm {
+    position: center;
+    display: flex;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 150px;
+    margin-bottom: 80px;
+    margin-right: 250px;
+    background-color: black;
+}
+.solGörüntü{
+    display: flex;
+    text-align: left-center;
+}
+.ortaHat{}
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
